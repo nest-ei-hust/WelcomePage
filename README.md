@@ -2,6 +2,7 @@ WelcomePage
 ===========
 
 Welcome to NEST Group!
+
 This is a new designed welcome page for NEST Group at HUST.
 
 Changelog

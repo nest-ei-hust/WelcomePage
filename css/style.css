@@ -70,6 +70,17 @@ ul {
     color:#0066cc;
     text-decoration:none;
     text-shadow:#ccc 1px 1px 0;
+    -webkit-transition:color .5s;
+    -moz-transition:color .5s;
+    -o-transition:color .5s;
+    transition:color .5s;
+}
+#internal li a:hover{
+    color:#000;
+    -webkit-transition:color .5s;
+    -moz-transition:color .5s;
+    -o-transition:color .5s;
+    transition:color .5s;
 }
 #external {
     margin-top:30px;

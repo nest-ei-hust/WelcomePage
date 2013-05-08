@@ -42,14 +42,34 @@ ul {
     position:fixed;
     text-align:right;
 }
+#sidetable {
+    border:1;
+}
+#sidetable td {
+    border:none;
+    padding-right:20px;
+    width:200px;
+}
 #name {
     text-transform:uppercase;
-    font-size:24px;
-    color:#000;
+    font-size:26px;
+    font-weight:bold;
+    color:#006699;
+    font-style:oblique;
+
+    text-shadow:#999 2px 2px 0;
 }
-#internal li {
-    font-size:18px;
-    margin-bottom:10px;
+#internal {
+    margin-top:50px;
+    font-size:20px;
+}
+#internal li{
+    margin-bottom:30px;
+}
+#internal li a{
+    color:#0066cc;
+    text-decoration:none;
+    text-shadow:#ccc 1px 1px 0;
 }
 #external {
     margin-top:30px;

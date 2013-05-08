@@ -61,8 +61,6 @@ ul {
     width:680px;
     float:right;
     position:relative;
-}
-#home {
     margin-top:50px;
     margin-bottom:50px;
 }
@@ -89,4 +87,15 @@ ul {
 .home-block ul {
    list-style:initial;
    margin-left:20px;
+}
+#people-title h1 {
+    display:inline;
+    line-height:30px;
+}
+#people-title p {
+    font-family:cursive;
+    font-size:16px;
+    display:inline;
+    position:absolute;
+    right:0px;
 }
